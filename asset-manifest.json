@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Raisiya/goit-react-hw-01-components/static/css/main.7acaea2f.css",
+    "main.js": "/Raisiya/goit-react-hw-01-components/static/js/main.07d3183d.js",
+    "index.html": "/Raisiya/goit-react-hw-01-components/index.html",
+    "main.7acaea2f.css.map": "/Raisiya/goit-react-hw-01-components/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Raisiya/goit-react-hw-01-components/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
