@@ -5,6 +5,8 @@
 .vscode/
 .idea/
 
+css.lint.unknownAtRules
+
 # dependencies
 /node_modules
 /.pnp
